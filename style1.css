@@ -2,3 +2,17 @@ h1{
   color:rgb(26,67,200);
   font-style:bold;
 }
+body{
+  border-color: aliceblue;
+  flood-color: aquamarine;
+  border-top-color: blanchedalmond;
+  background-color: cadetblue;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+table{
+  text-align: center;
+  color: crimson;
+  text-decoration-color: coral;
+  
+}
