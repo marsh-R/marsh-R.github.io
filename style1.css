@@ -4,6 +4,7 @@ h1{
 }
 body{
   border-color: aliceblue;
+  border-width:20px;
   flood-color: aquamarine;
   border-top-color: blanchedalmond;
   background-color: cadetblue;
